@@ -1,4 +1,4 @@
-/*
+package EnvíoRecepcionDeDatagrama;/*
 
             El cliente deberá mandarle un saludo del ripo "Hola, soy XXX y quiero saludarle".
             Y el servidor deberá contestarle con otro de la forma. "Muchas gracias, yo también le saludo a usted".

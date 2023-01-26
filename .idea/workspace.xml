@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="838f5fb7-0d26-41b8-a461-671fa9834a2c" name="Changes" comment="Implemento clase cliente.">
-      <change beforePath="$PROJECT_DIR$/src/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cliente.java" afterDir="false" />
+    <list default="true" id="838f5fb7-0d26-41b8-a461-671fa9834a2c" name="Changes" comment="Comento que hace cada cosa de la clase Cliente.">
+      <change afterPath="$PROJECT_DIR$/src/EnvíoRecepcionDeDatagrama/Servidor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,12 +58,20 @@
       <option name="project" value="LOCAL" />
       <updated>1674753349274</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Comento que hace cada cosa de la clase Cliente.">
+      <created>1674754262529</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1674754262529</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Primer commit" />
     <MESSAGE value="Implemento clase cliente." />
-    <option name="LAST_COMMIT_MESSAGE" value="Implemento clase cliente." />
+    <MESSAGE value="Comento que hace cada cosa de la clase Cliente." />
+    <option name="LAST_COMMIT_MESSAGE" value="Comento que hace cada cosa de la clase Cliente." />
   </component>
 </project>
