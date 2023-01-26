@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="838f5fb7-0d26-41b8-a461-671fa9834a2c" name="Changes" comment="Creamos la clase Servidor y la comento para que se vea lo que va haciendo">
-      <change afterPath="$PROJECT_DIR$/src/EnvioYRecepcionDeDatagramas_Repito/Servidor.java" afterDir="false" />
+    <list default="true" id="838f5fb7-0d26-41b8-a461-671fa9834a2c" name="Changes" comment="Creo una clase nueva para practicar el envio de datagramas entre un cliente y un servidor.">
+      <change afterPath="$PROJECT_DIR$/src/EnvioYRecepcionDeDatagramas_Repito/Cliente.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EnvioYRecepcionDeDatagramas_Repito/Servidor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EnvioYRecepcionDeDatagramas_Repito/Servidor.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +73,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674755928209</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Creo una clase nueva para practicar el envio de datagramas entre un cliente y un servidor.">
+      <created>1674765306744</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1674765306744</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -80,6 +88,7 @@
     <MESSAGE value="Implemento clase cliente." />
     <MESSAGE value="Comento que hace cada cosa de la clase Cliente." />
     <MESSAGE value="Creamos la clase Servidor y la comento para que se vea lo que va haciendo" />
-    <option name="LAST_COMMIT_MESSAGE" value="Creamos la clase Servidor y la comento para que se vea lo que va haciendo" />
+    <MESSAGE value="Creo una clase nueva para practicar el envio de datagramas entre un cliente y un servidor." />
+    <option name="LAST_COMMIT_MESSAGE" value="Creo una clase nueva para practicar el envio de datagramas entre un cliente y un servidor." />
   </component>
 </project>

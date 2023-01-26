@@ -33,6 +33,7 @@ public class Servidor {
                 int puertoCliente = peticion.getPort();
                 InetAddress direccion = peticion.getAddress();
                 // Y respondemos desde el servidor.
+                System.out.println("Mensaje a enviar: ");
                 String mensaje = new Scanner(System.in).nextLine();
                 buffer = mensaje.getBytes();
                 // Y respondemos gracias al DatagramPacket que vamos a crear a continuación.
